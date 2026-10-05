@@ -8,9 +8,7 @@ public class ValidAnagram
         char brr[] = t.toCharArray();
         Arrays.sort(arr);
         Arrays.sort(brr);
-        String s1 = new String(arr);
-        String s2 = new String(brr);
-        return(s1.equals(s2));    
+        return(Arrays.equals(arr,brr));    
     }
 
     public static void main(String[]args)
