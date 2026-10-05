@@ -13,7 +13,7 @@ Update the count each time you add a solution.
 
 | # | Topic | Solved |
 | --- | --- | :---: |
-| 01 | [Arrays & Hashing](01-arrays-and-hashing/) | 0 |
+| 01 | [Arrays & Hashing](01-arrays-and-hashing/) | 4 |
 | 02 | [Two Pointers](02-two-pointers/) | 0 |
 | 03 | [Sliding Window](03-sliding-window/) | 0 |
 | 04 | [Stack & Queue](04-stack-and-queue/) | 0 |
